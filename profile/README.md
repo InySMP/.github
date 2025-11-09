@@ -1,8 +1,6 @@
 # 👑 InySMP - 台灣社群生存伺服器 💎
 
 [![Discord 狀態](https://img.shields.io/discord/1431154141677359142.svg?label=Discord&logo=discord&color=7289DA)](https://discord.gg/kXXSQxmYnG)
-[![Minecraft 版本](https://img_shields.io/badge/Minecraft%20Version-1.21%20%2F%201.21-brightgreen.svg)](https://www.minecraft.net/zh-hant/article/minecraft-java-edition-1-21)
-[![伺服器狀態](https://img_shields.io/badge/Server%20Status-Online-success.svg)](iny.bedtwl.com)
 
 > 👋 **歡迎來到 InySMP 的官方 GitHub 倉庫！**
 >
