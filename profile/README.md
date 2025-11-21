@@ -6,7 +6,7 @@
 >
 > 這裡是我們伺服器配置、技術文件以及獨家開發內容的集中地。
 >
-> 🎮 **伺服器 IP：\`Iny.bedtwL.com\`** (請替換為你的實際 IP)
+> 🎮 **伺服器 IP：\`InySMP.bedtwL.com\`**
 
 ---
 
@@ -33,6 +33,6 @@
 我們歡迎任何形式的社群貢獻和反饋：
 
 * **回報錯誤 (Bugs)：** 如果你在伺服器或自定義插件中發現錯誤，請在 **[Issues](https://github.com/Inysmp/InySMP/issues)** 頁面提出。
-* **插件貢獻：** 如果您對我們的開源插件（如 SpaMute）有興趣貢獻程式碼，請通過 Pull Requests 提交。
+* **插件貢獻：** 如果您對我們的開源插件（如 SpaMute or InySMPLobby）有興趣貢獻程式碼，請通過 Pull Requests 提交。
 
 ---
