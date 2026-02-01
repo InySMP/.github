@@ -1,38 +1,46 @@
-# 👑 InySMP - 台灣社群生存伺服器 💎
+# 🚀 OHW Minecraft Network
 
-[![Discord 狀態](https://img.shields.io/discord/1431154141677359142.svg?label=Discord&logo=discord&color=7289DA)](https://discord.gg/kXXSQxmYnG)
-
-> 👋 **歡迎來到 InySMP 的官方 GitHub 倉庫！**
->
-> 這裡是我們伺服器配置、技術文件以及獨家開發內容的集中地。
->
-> 🎮 **伺服器 IP：\`InySMP.bedtwL.com\`**
+歡迎來到 **OHW Server**！這是一個專注於流暢競技與多樣化玩法的小遊戲伺服器。無論你是疊橋高手還是 PvP 戰神，這裡都有你的舞台。
 
 ---
 
-## 🌟 核心特色 (Core Features)
+## 🎮 伺服器資訊
 
-**InySMP** 是一個致力於提供 **優化原版體驗** 的社群生存伺服器。我們專注於穩定性、公平性與社群互動。
-
-* **優化效能：** 採用 **Paper/Purpur** 核心，確保伺服器穩定、低延遲。
-* **自定義功能：** 運行獨家開發的插件，例如 **SpaMute**（智能反刷屏）和客製化功能。
-* **友善社群：** 擁有活躍的 **Discord 伺服器**，方便玩家交流與活動通知。
-
-
-## 🔗 社群連結 (Community Links)
-
-加入我們的社群，與其他玩家和管理團隊互動！
-
-* **Discord 伺服器：** [點擊加入 InySMP Discord](https://discord.gg/kXXSQxmYnG)
-* **ADMIN/聯繫方式：** Join Discord Server and open ticket for help
+* **伺服器 IP:** `ohw.cloud-ip.cc`
+* **支援版本:** `1.8` - `1.21+` (推薦使用 1.8.9 以獲得最佳競技體驗)
+* **官方網站:** [www.ohw.cloud-ip.cc](http://www.ohw.cloud-ip.cc)
+* **Discord 社群:** [加入我們](http://www.ohw.cloud-ip.cc/discord)
 
 ---
 
-## 🤝 貢獻與反饋 (Contribution & Feedback)
+## 🕹️ 遊戲項目
 
-我們歡迎任何形式的社群貢獻和反饋：
+目前我們提供以下核心玩法，並持續開發新功能：
 
-* **回報錯誤 (Bugs)：** 如果你在伺服器或自定義插件中發現錯誤，請在 **[Issues](https://github.com/Inysmp/InySMP/issues)** 頁面提出。
-* **插件貢獻：** 如果您對我們的開源插件（如 SpaMute or InySMPLobby）有興趣貢獻程式碼，請通過 Pull Requests 提交。
+* **🧱 疊橋 (Bridging):** 練習極速插秧、Godbridge，挑戰你的手速極限。
+* **⚔️ 競技 PvP:** 純粹的戰鬥技巧對決，流暢的擊退感。
+* **🚧 開發中項目:** 更多精彩的新遊戲即將上線，敬請期待！
 
 ---
+
+## 🛠️ 加入方式
+
+1.  開啟 Minecraft Launcher。
+2.  選擇版本 **1.8** 或更高版本。
+3.  進入「多人遊戲」並點擊「新增伺服器」。
+4.  在伺服器位址輸入：`ohw.cloud-ip.cc`。
+5.  立即開始你的冒險！
+
+---
+
+## 📢 社群與支援
+
+如果你遇到任何問題，或者有新的遊戲建議，歡迎透過以下管道聯繫我們：
+
+* 在 **Discord** 提交回報單 (Ticket)。
+* 關注我們的**官方網站**以獲取最新公告。
+
+---
+
+> ### 💡 伺服器願景
+> 我們致力於打造一個低延遲、公平競爭且充滿樂趣的環境。感謝每一位玩家的支持！
